@@ -39,7 +39,7 @@ CHBToken Overview
 CHBToken Update from V4.7.5 to V5.0.0.0
 ===========================
 * 1.) Download latest version of CHBTokenLauncher from GitHub
-* 2.) Backup your Wallet.dat file and store it securly
+* 2.) Backup your Wallet.dat file and store it securely
 * 3.) Run the CHBTLauncher, this will install the new V5.0.0.0 on your PC
 * 4.) Start the CHBToken wallet V5.0.0.0 and let it sync
 
