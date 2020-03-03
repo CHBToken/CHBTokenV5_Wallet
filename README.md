@@ -5,6 +5,14 @@ This is the Windows CHBTLaumcher for CHBToken V5.x Wallet.
 For more information and source code please go to:
 https://github.com/CHBToken/chbtokenV5.x
 
+CHBToken 5.0.0.0 Source Code and Windows Wallet
+===========================
+**The Source Code:** https://github.com/CHBToken/chbtokenV5.x
+
+**The Windows Wallet CHBTLauncher is available for download on (this repository):** https://github.com/CHBToken/CHBTokenV5_Wallet
+
+**Official Website:** https://chbt.ch
+
 CHBToken 5.0.0.0 & CHBTokenDoc
 ===========================
 
