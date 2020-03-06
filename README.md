@@ -1,5 +1,5 @@
 # CHBTokenV5_Wallet
-This is the Windows CHBTLaumcher for CHBToken V5.x Wallet.
+This is the Windows CHBTLauncher for CHBToken V5.x Wallet.
 
 **NOTE:**
 For more information and source code please go to:
