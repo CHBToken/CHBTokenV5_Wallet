@@ -15,6 +15,8 @@ CHBToken V5.0.0.0 needs the following Microsoft SW installed on your Windows PC.
 
 If a prerequisite is missing the CHBTInstaller will stop and prepare these files for you to be installed manually. 
 
+The missing prerequisites will be prepared in: c:\Users\username\AppData\Local\Temp\CHBTPreReq folder. Please read the README file within this folder if the CHBTInstaller finds any prerequisites missing. If all prerequisites are installed, the installation will proceed as normal and the CHBTPreReq folder will not be created.
+
 **NOTE:** Once the prerequisites are installed you need to re-run the CHBTInstaller to complete the installation of CHBT V5.0.0.0.
 
 CHBT V5.0.0.0 will not start without these prerequisites installed on your Windows PC.
