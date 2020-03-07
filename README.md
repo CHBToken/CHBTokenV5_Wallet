@@ -5,6 +5,13 @@ This is the Windows CHBTLauncher for CHBToken V5.x Wallet.
 For more information and source code please go to:
 https://github.com/CHBToken/chbtokenV5.x
 
+PREAMBLE
+===========================
+* Never download the CHBTInstaller from any other source than this GitHub.
+* Backup your Wallet.dat file before you upgrade to CHBT V5.0.0.0, found in: C:\Users\YourUserName\AppData\Roaming\CHBToken
+* Have your Wallet protected by setting an encryption password in: Settings / Encrypt Wallet 
+* Never give anyone your password of the CHBT Wallet
+
 CHBToken 5.0.0.0 Prerequisites for Windows Wallet
 ===========================
 CHBToken V5.0.0.0 needs the following Microsoft SW installed on your Windows PC.
