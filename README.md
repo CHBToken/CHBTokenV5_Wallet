@@ -38,12 +38,12 @@ CHBToken 5.0.0.0 Source Code and Windows Wallet
 
 **Official Website:** https://chbt.ch
 
-CHBToken 5.0.0.0 & CHBTokenDoc
+CHBToken 5.0.0.0 & CHBTPaygate
 ===========================
 
 *  CHBToken is a PoS-based cryptocurrency.
-*  CHBTokenDoc is a secure document upload system with document storage and high security encryption.
-*  CHBTokenDoc provides an option to cryptographically sign and store encrypted documents on the CHBTokenDoc Blockchain utilizing a 1MB encryption key and verification hash.
+*  CHBTPaygate is a secure document upload system with document storage and high security encryption.
+*  CHBTPaygate provides an option to cryptographically sign and store encrypted documents on the CHBTPaygate Blockchain utilizing a 1MB encryption key and verification hash.
  
 This Github contains only the CHBTokenLauncher for Windows Systems. It does not contain the source code.
 For Source Code please refer to the section: https://github.com/CHBToken/chbtokenV5.x
