@@ -34,7 +34,7 @@ CHBToken 5.0.0.0 Source Code and Windows Wallet
 ===========================
 **The Source Code:** https://github.com/CHBToken/chbtokenV5.x
 
-**The Windows Wallet CHBTLauncher is available for download on (this repository):** https://github.com/CHBToken/CHBTokenV5_Wallet/releases and download the CHBT_Wallet_5.0.0.0_LC.exe
+**The Windows Wallet CHBTLauncher is available for download on (this repository):** https://github.com/CHBToken/CHBTokenV5_Wallet/releases and download the latest release of CHBToken
 
 **Official Website:** https://chbt.ch
 
